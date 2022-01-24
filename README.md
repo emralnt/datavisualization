@@ -1,0 +1,2 @@
+# datavisualization
+veri görselleştirme notlarım
